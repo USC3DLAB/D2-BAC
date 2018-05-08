@@ -7,3 +7,5 @@
 - Yuan, Y., & Sen, S. (2009). Enhanced cut generation methods for decomposition-based branch and cut for two-stage stochastic mixed-integer programs. INFORMS Journal on Computing, 21(3), 480-487.  
 
 This code is implemented by Lewis N'taimo and Yang Yuan; supervised by Suvrajeet Sen. 
+
+This software is distributed for academic and non-profit use. Please see the license file for copyright details, and contact the authors for commercial use.
